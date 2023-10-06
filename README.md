@@ -4,7 +4,7 @@ Hi 👋 My name is Felipe Cavacanti
 Computer Science Student at UFPB.
 ---------------------------------
 
-I'm 19 years old. I've been coding since my 15's, and i really enjoy it. Actually i'm learning Javascript, but i've taken C, Java, HTML, PHP, SQL, CSS, and Python courses before.
+I'm 19 years old. I've been coding since my 15's, and i really enjoy it. Actually i'm learning Java, but i've taken C, Java, HTML, PHP, SQL, CSS, and Python courses before.
 
 * 🌍  I'm based in João Pessoa, Brasil
 * ✉️  You can contact me at [fe.cavacanti2016@gmail.com](mailto:fe.cavacanti2016@gmail.com)
