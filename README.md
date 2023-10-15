@@ -38,8 +38,4 @@ I'm 19 years old. I've been coding since my 15's, and i really enjoy it. Actuall
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/feapolina"><img src="https://github-readme-stats.vercel.app/api?username=feapolina&show_icons=true&hide=stars,prs,&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="feapolina's GitHub stats" /></a>
-
-<a href="http://www.github.com/feapolina"><img src="https://github-readme-streak-stats.herokuapp.com/?user=feapolina&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/feapolina" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feapolina&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
