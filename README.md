@@ -29,7 +29,7 @@ I'm 19 years old. Actually i'm learning Java, but i've taken C, Javascript, HTML
 
 ### Certificates
 - [Certificado Curso de Java - Rocketseat](https://app.rocketseat.com.br/certificates/3fa81921-e76f-4cda-9180-256d83aaa7f2)
-- [...]
+- [Imersão Dev Javascript - Alura](https://cursos.alura.com.br/immersion/certificate/user/4608593)
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/felipe1209" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/feapolina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/felipecvlc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
