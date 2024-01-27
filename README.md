@@ -4,7 +4,7 @@ Hi 👋 My name is Felipe Cavacanti
 Computer Science Student at UFPB.
 ---------------------------------
 
-I'm 19 years old. Actually i'm learning Javascript, but i've taken C, Java, HTML, PHP, SQL, CSS, and Python courses before.
+I'm 19 years old. Actually i'm learning REACT.
 
 * 🌍  I'm based in João Pessoa, Brasil
 * ✉️  You can contact me at [fe.cavacanti2016@gmail.com](mailto:fe.cavacanti2016@gmail.com)
@@ -16,6 +16,9 @@ I'm 19 years old. Actually i'm learning Javascript, but i've taken C, Java, HTML
 
 
 <p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.png" width="36" height="36" alt="React" />
+  </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
