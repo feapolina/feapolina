@@ -1,4 +1,4 @@
-Hi 👋 My name is Felipe Cavacanti
+Hi 👋 My name is Felipe Cavalcanti
 =================================
 
 Computer Science Student at UFPB.
