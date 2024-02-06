@@ -4,12 +4,12 @@ Hi 👋 My name is Felipe Cavalcanti
 Computer Science Student at UFPB.
 ---------------------------------
 
-I'm 19 years old. Actually i'm learning REACT.
+I'm 19 years old. Actually i'm learning ReactJS.
 
-* 🌍  I'm based in João Pessoa, Brasil
+* 🌍  I'm based in João Pessoa, Brasil.
 * ✉️  You can contact me at [fe.cavacanti2016@gmail.com](mailto:fe.cavacanti2016@gmail.com)
-* 🧠  I'm learning Javascript
-* 🤝  I'm open to collaborating on Javascript projects
+* 🧠  I'm learning ReactJS.
+* 🤝  I'm open to collaborating on Javascript projects.
 * ⚡  I'm hoping to make new friends and connections to work and learn together.
 
 ### Skills
