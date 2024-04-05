@@ -35,6 +35,7 @@ I'm 19 years old. Actually i'm learning ReactJS.
 - [Certificado Imersão Front-End - Alura](https://cursos.alura.com.br/immersion/certificate/user/4608593)
 - [Certificado Intensivão Javascript (React, NodeJS, JS)](https://dlp.hashtagtreinamentos.com/certificado/download?ncf=Felipe%20Apolinario&necf=Intensiv%C3%A3o+de+JavaScript&dtcf=01%2F02%2F24&hcf=8)
 - [Certificado NLW ReactJS - Rocketseat](https://app.rocketseat.com.br/certificates/237ce6f8-52e2-4041-8f2e-2f845760602d)
+- [Certificado NLW NodeJS - Rocketseat](https://app.rocketseat.com.br/certificates/c0fda982-af6b-449f-8771-d6f0e84adbb9)
 
 ### Socials
 
