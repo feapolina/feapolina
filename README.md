@@ -34,7 +34,7 @@ I'm 19 years old. Actually i'm learning ReactJS.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
+### Badge
 
 
 <div align="center">
@@ -42,7 +42,7 @@ I'm 19 years old. Actually i'm learning ReactJS.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feapolina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### Socials
 
 
 <div align="left">
